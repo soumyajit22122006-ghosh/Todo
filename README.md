@@ -1,1 +1,1 @@
-This is a Todo App in simple only made using HTML, CSS & JavaScript.
+This is a Todo App in simple, which is made using HTML, CSS & JavaScript.
