@@ -1,0 +1,1 @@
+This is a Todo App in simple only made using HTML, CSS & JavaScript.
